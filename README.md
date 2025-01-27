@@ -1,2 +1,2 @@
 # Mtsu2025DBMS
-This repository is for the Database Management Systems class of MTSU 2025
+This Project is for a team in the Database Management Systems class of MTSU 2025
