@@ -16,9 +16,10 @@ chakra
 
 -----TO RUN------
 
+- Clone/Download the project
 - Navigate to your Mern Crash Course folder
-- then ( Mern-Crash-Course --> mern-git --> Mtsu2025DBMS) or paste "cd .\mern-git\Mtsu2025DBMS\" into your terminal
-- next in the terminal enter "npm run dev" 
+- Then ( Mern-Crash-Course --> mern-git --> Mtsu2025DBMS) or paste "cd .\mern-git\Mtsu2025DBMS\" into your terminal
+- Next in the terminal enter "npm run dev" 
 DONE!
 
 ----TO RUN-------
