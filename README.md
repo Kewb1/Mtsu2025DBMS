@@ -15,9 +15,12 @@ vite
 chakra
 
 -----TO RUN------
-Navigate to your Mern Crash Course folder, then ( Mern Crash Course --> mern-git --> Mtsu2025DBMS)
-next in the terminal enter "npm run dev" 
+
+- Navigate to your Mern Crash Course folder
+- then cd ( Mern Crash Course --> mern-git --> Mtsu2025DBMS)
+- next in the terminal enter "npm run dev" 
 DONE!
+
 ----TO RUN-------
 
 Keep in mind! This is still a work in progress! Some current versions may not be working yet!
