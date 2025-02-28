@@ -1,16 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import{Button , ButtonGroup} from '@chakra-ui/react'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React, { useState } from "react";
+import RecipeSearch from "./components/RecipeSearch";
+import RecipeResults from "./components/RecipeResults";
 
 function App() {
+  const [recipes, setRecipes] = useState([]);
+
   return (
-    <>
-      <Button >Button</Button>
-      
-    </>
-  )
+    <div className="min-h-screen bg-gray-100 p-4 text-center">
+      <h1 className="text-3xl font-bold text-gray-800">Recipe Finder</h1>
+      <RecipeSearch setRecipes={setRecipes} />
+      <RecipeResults recipes={recipes} />
+    </div>
+  );
 }
 
-export default App
+export default App;
+
